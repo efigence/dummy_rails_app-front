@@ -229,3 +229,5 @@ tags
 # End of https://www.gitignore.io/api/node,git,macos,linux,vim,rubymine,sublimetext,visualstudiocode
 
 dist/
+
+.nvmrc
